@@ -1,5 +1,9 @@
 ## Всем привет 👋
 
+[![Telegram News](https://img.shields.io/badge/Telegram-News-blue.svg)](https://t.me/bim4everyone_news)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-blue.svg)](https://t.me/bim4everyone_group)
+[![Telegram Discuss](https://img.shields.io/badge/Telegram-Discuss-blue.svg)](https://t.me/bim4everyone_discuss)
+
 Bim4Everyone - это платформа разрабатываемая для упрощения разработки проектной документации в Autodesk Revit.
 
 <!--
