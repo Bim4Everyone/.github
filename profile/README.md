@@ -1,5 +1,8 @@
 ## Всем привет 👋
 
+[![GitHub all releases](https://img.shields.io/github/downloads/Bim4Everyone/Bim4EveryoneSetup/total)](https://github.com/Bim4Everyone/Bim4EveryoneSetup/releases/latest)
+[![GitHub Release Date - Published_At](https://img.shields.io/github/release-date/Bim4Everyone/Bim4EveryoneSetup)](https://github.com/Bim4Everyone/Bim4EveryoneSetup/releases/latest)
+
 [![Telegram News](https://img.shields.io/badge/Telegram-News-blue.svg)](https://t.me/bim4everyone_news)
 [![Telegram Group](https://img.shields.io/badge/Telegram-Group-blue.svg)](https://t.me/bim4everyone_group)
 [![Telegram Discuss](https://img.shields.io/badge/Telegram-Discuss-blue.svg)](https://t.me/bim4everyone_discuss)
